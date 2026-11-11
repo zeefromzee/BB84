@@ -58,7 +58,7 @@ gcc -Wall -g -fsanitize=address bb84.c -o bb84
 
 - [x] Key generation, measurement and sifting
 - [x] Eavesdropper model (intercept-resend)
-- [ ] Noisy channel and QBER abort threshold
+- [x] Noisy channel and QBER abort threshold
 - [ ] Error correction
 - [ ] Privacy amplification
 - [ ] Parameter sweeps and CSV export
